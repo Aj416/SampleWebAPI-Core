@@ -1,0 +1,4 @@
+2020-05-05 15:43:32.7614 INFO Returned all employees from database.
+2020-05-05 15:43:49.3623 INFO Returned all employees with details from database.
+2020-05-05 15:44:11.5548 INFO Returned Employee with id: 2
+2020-05-05 15:44:22.8767 INFO Returned Employee details with id: 2

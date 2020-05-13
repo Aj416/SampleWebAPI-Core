@@ -1,0 +1,32 @@
+2020-05-02 19:59:21.6413 INFO Returned Employee with id: 1
+2020-05-02 20:00:56.4118 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-05-02 20:01:31.4135 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-05-02 20:02:30.5269 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-05-02 20:06:03.2681 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-05-02 20:06:49.6659 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-05-02 20:07:22.9606 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-05-02 20:15:28.9199 INFO Returned Employee with id: 1
+2020-05-02 20:16:48.8965 INFO Returned Employee with id: 1
+2020-05-02 21:40:24.6744 INFO Returned Employee with id: 1
+2020-05-02 22:01:40.1884 INFO Returned Employee with id: 1
+2020-05-02 22:01:53.4957 INFO Returned all employees from database.
+2020-05-02 22:07:45.5385 INFO Returned all employees from database.
+2020-05-02 22:09:34.7237 INFO Returned all employees with details from database.
+2020-05-02 22:13:44.9539 INFO Returned all employees with details from database.
+2020-05-02 22:54:19.6724 INFO Returned Employee with id: 1
+2020-05-02 22:54:47.3969 INFO Returned Employee details with id: 1
+2020-05-02 22:57:54.9928 ERROR Something went wrong inside PostEmployee action: An error occurred while updating the entries. See the inner exception for details.
+2020-05-02 23:03:34.8791 ERROR Something went wrong inside PostEmployee action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+EmployeeEditDto -> Employee
+EmployeeAPI.Model.EmployeeEditDto -> EmployeeAPI.Data.Employee
+2020-05-02 23:05:24.5853 ERROR Something went wrong inside PostEmployee action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+EmployeeEditDto -> Employee
+EmployeeAPI.Model.EmployeeEditDto -> EmployeeAPI.Data.Employee
+2020-05-02 23:06:21.5710 ERROR Something went wrong inside PostEmployee action: An error occurred while updating the entries. See the inner exception for details.
+2020-05-02 23:08:20.1422 ERROR Something went wrong inside PostEmployee action: An error occurred while updating the entries. See the inner exception for details.
+2020-05-02 23:28:40.4237 INFO Returned all employees from database.
+2020-05-02 23:31:51.4776 INFO Returned Employee with id: 1

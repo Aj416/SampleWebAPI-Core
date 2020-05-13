@@ -1,0 +1,8 @@
+2020-04-29 19:13:28.4386 INFO Returned all employees from database.
+2020-04-29 19:15:28.3850 INFO Returned all employees from database.
+2020-04-29 19:23:55.4328 INFO Returned all employees from database.
+2020-04-29 19:32:26.4482 INFO Returned all employees from database.
+2020-04-29 20:21:12.2139 INFO Returned all employees from database.
+2020-04-29 20:21:26.7601 INFO Returned all employees from database.
+2020-04-29 20:21:30.7036 INFO Returned all employees from database.
+2020-04-29 20:21:52.0273 INFO Returned all employees from database.

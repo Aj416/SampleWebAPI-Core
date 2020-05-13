@@ -1,0 +1,36 @@
+2020-04-30 13:04:13.0113 ERROR Something went wrong inside GetEmployee action: Object reference not set to an instance of an object.
+2020-04-30 13:06:16.8370 ERROR Something went wrong inside GetEmployee action: Object reference not set to an instance of an object.
+2020-04-30 13:06:52.5886 ERROR Something went wrong inside GetEmployee action: Object reference not set to an instance of an object.
+2020-04-30 13:08:39.6188 ERROR Something went wrong inside GetEmployee action: Object reference not set to an instance of an object.
+2020-04-30 13:09:25.1721 ERROR Something went wrong inside GetEmployee action: Object reference not set to an instance of an object.
+2020-04-30 13:24:02.3419 INFO Returned all employees from database.
+2020-04-30 15:41:03.7561 INFO Returned Employee with id: 1
+2020-04-30 16:13:21.2893 INFO Returned all employees from database.
+2020-04-30 16:31:14.7716 INFO Returned all employees from database.
+2020-04-30 16:34:42.9679 INFO Returned all employees from database.
+2020-04-30 16:38:34.5903 INFO Returned Employee with id: 1
+2020-04-30 16:39:28.3542 INFO Returned Employee with id: 1
+2020-04-30 16:40:06.6819 INFO Returned Employee with id: 1
+2020-04-30 16:44:23.2317 INFO Returned all employees from database.
+2020-04-30 16:44:36.7200 INFO Returned all employees from database.
+2020-04-30 16:44:43.0603 INFO Returned all employees from database.
+2020-04-30 16:46:28.6927 INFO Returned Employee with id: 1
+2020-04-30 16:46:45.2080 INFO Returned Employee with id: 1
+2020-04-30 16:46:55.9392 INFO Returned Employee with id: 1
+2020-04-30 16:48:44.3247 INFO Returned Employee with id: 1
+2020-04-30 16:48:58.0025 INFO Returned all employees from database.
+2020-04-30 16:49:01.7387 INFO Returned all employees from database.
+2020-04-30 17:14:44.2902 INFO Returned Employee with id: 1
+2020-04-30 17:16:14.6705 INFO Returned Employee with id: 1
+2020-04-30 17:22:36.3506 INFO Returned Employee with id: 1
+2020-04-30 17:23:23.3069 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-04-30 17:25:55.1922 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-04-30 17:28:29.3592 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-04-30 17:36:59.6392 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-04-30 17:37:36.1409 ERROR The employee id does not match the id provided by client
+2020-04-30 17:39:59.5901 INFO Returned Employee with id: 1
+2020-04-30 17:39:59.5901 INFO Returned Employee with id: 1
+2020-04-30 17:39:59.5901 INFO Returned Employee with id: 1
+2020-04-30 17:42:05.8306 INFO Returned Employee with id: 1
+2020-04-30 17:56:31.4254 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2020-04-30 19:36:23.5360 ERROR Something went wrong inside PutEmployee action: The instance of entity type 'Employee' cannot be tracked because another instance with the same key value for {'EmpId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.

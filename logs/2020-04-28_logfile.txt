@@ -1,0 +1,5 @@
+2020-04-28 20:56:30.0899 INFO Returned all employees from database.
+2020-04-28 20:56:36.1179 INFO Returned Employee with id: 4
+2020-04-28 20:57:22.7051 ERROR Employee with id: 400, hasn't been found in db.
+2020-04-28 20:57:33.0127 ERROR Employee with id: 400, hasn't been found in db.
+2020-04-28 20:57:49.8768 ERROR Employee with id: 42, hasn't been found in db.
