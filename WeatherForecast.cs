@@ -2,6 +2,7 @@ using System;
 
 namespace EmployeeAPI
 {
+    // Sample
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
